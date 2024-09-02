@@ -1,1 +1,3 @@
-# IBM-Applied-Data-Science-SpaceX
+# IBM Applied Data Science - SpaceX
+
+## Introduction
